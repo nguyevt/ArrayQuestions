@@ -21,6 +21,5 @@ public class SumToZero {
     
     public static void main(String[] args) {
         sumToZero(new int[]{2, 3, 1, -2, -1, 0, 2, -3, 0});
-    }
-    
+    }    
 }
